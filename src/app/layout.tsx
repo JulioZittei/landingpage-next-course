@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { ThemeProvider } from "./_components/theme-provider";
+import { Analytics } from "@vercel/analytics/react";
 import { Inter as FontSans } from "next/font/google";
 import localFont from "next/font/local";
 import { cn } from "@/lib/utils";
@@ -59,6 +60,7 @@ export default function RootLayout({
       >
         <ThemeProvider attribute="class" defaultTheme="system">
           {children}
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>
