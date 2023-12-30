@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "title": "Módulo 1: Introdução",
+    "data": "04 de Dezembro de 2023",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Sobre o curso"
+      },
+      {
+        "id": 2,
+        "title": "Base de conhecimento"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Módulo 2: Preparando ambiente",
+    "data": "11 de Dezembro de 2023",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Ferramentas necessárias"
+      },
+      {
+        "id": 2,
+        "title": "Configurando VS Code"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Módulo 3: Setup do Projeto",
+    "data": "18 de Dezembro de 2023",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Setup 'create-next-app'"
+      },
+      {
+        "id": 2,
+        "title": "Entendendo os arquivos base do projeto"
+      },
+      {
+        "id": 3,
+        "title": "Styling (TailwindCSS)"
+      },
+      {
+        "id": 4,
+        "title": "Instalando shadcn"
+      },
+      {
+        "id": 5,
+        "title": "Configurando thema da Aplicação"
+      },
+      {
+        "id": 6,
+        "title": "Criando estruturas de pastas"
+      },
+      {
+        "id": 7,
+        "title": "Entendendo sobre Roteamento"
+      },
+      {
+        "id": 8,
+        "title": "Client Components x Server Components"
+      },
+      {
+        "id": 9,
+        "title": "Publicando projeto no GitHub"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Módulo 4: Autenticação",
+    "data": "25 de Dezembro de 2023",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Tipos de autenticações"
+      },
+      {
+        "id": 2,
+        "title": "NextAuth ou Clerk, qual utilizar?"
+      },
+      {
+        "id": 3,
+        "title": "Configurando autenticação Clerk"
+      },
+      {
+        "id": 4,
+        "title": "Tela de Login e Registro"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Módulo 5: Layout",
+    "data": "01 de Janeiro de 2024",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "O que são metadados"
+      },
+      {
+        "id": 2,
+        "title": "Fonts"
+      },
+      {
+        "id": 3,
+        "title": "Layout responsivo com TailwindCSS"
+      },
+      {
+        "id": 4,
+        "title": "Layout default"
+      },
+      {
+        "id": 5,
+        "title": "Criando componente Topbar"
+      },
+      {
+        "id": 6,
+        "title": "Criando componente Sidebar"
+      },
+      {
+        "id": 7,
+        "title": "Criando componente Sidebar para Mobile"
+      },
+      {
+        "id": 8,
+        "title": "O que são middlewares?"
+      },
+      {
+        "id": 9,
+        "title": "Redirecionamento de páginas"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Módulo 6: Configurando Banco de Dados",
+    "data": "08 de Janeiro de 2024",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Configurando o PlanetScale"
+      },
+      {
+        "id": 2,
+        "title": "Configurando Prisma ORM"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Módulo 7: Criando Curso",
+    "data": "15 de Janeiro de 2024",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Criando página de Novo Curso"
+      },
+      {
+        "id": 2,
+        "title": "O que são Server Actions?"
+      },
+      {
+        "id": 3,
+        "title": "Novo curso"
+      },
+      {
+        "id": 4,
+        "title": "Criando tabela de Cursos"
+      },
+      {
+        "id": 5,
+        "title": "Entendendo Data Fetching"
+      },
+      {
+        "id": 6,
+        "title": "Criando API de Cursos"
+      },
+      {
+        "id": 7,
+        "title": "Edição de Cursos"
+      },
+      {
+        "id": 8,
+        "title": "Edição de Episódios"
+      },
+      {
+        "id": 9,
+        "title": "Publicação de Cursos"
+      },
+      {
+        "id": 10,
+        "title": "Publicação de Episódios"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Módulo 8: Listagem de Cursos",
+    "data": "22 de Janeiro de 2024",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Entendendo sobre Caching"
+      },
+      {
+        "id": 2,
+        "title": "Lazy Loading"
+      },
+      {
+        "id": 3,
+        "title": "Criando componente de Listagem de Curso"
+      },
+      {
+        "id": 4,
+        "title": "Filtro para Listagem de Curso"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Módulo 9: Integração com Stripe",
+    "data": "29 de Janeiro de 2024",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Configurando Stripe"
+      },
+      {
+        "id": 2,
+        "title": "Componente de Compra de Curso"
+      },
+      {
+        "id": 3,
+        "title": "Integração com Stripe"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Módulo 10: Dashboard do Aluno",
+    "data": "05 de Fevereiro de 2024",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Progresso do Aluno"
+      },
+      {
+        "id": 2,
+        "title": "Dashboard do Aluno"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Módulo 11: Deployment",
+    "data": "12 de Fevereiro de 2024",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Tudo sobre a Vercel"
+      },
+      {
+        "id": 2,
+        "title": "Configurando novo projeto na Vercel"
+      },
+      {
+        "id": 3,
+        "title": "WebHooks Clerk"
+      },
+      {
+        "id": 4,
+        "title": "Configurando Domínio"
+      },
+      {
+        "id": 5,
+        "title": "CI/CD"
+      },
+      {
+        "id": 6,
+        "title": "Logs na Vercel"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Módulo 12: Feedback do Projeto",
+    "data": "19 de Fevereiro de 2024",
+    "episodes": [
+      {
+        "id": 1,
+        "title": "Revisão do Projeto"
+      },
+      {
+        "id": 2,
+        "title": "Melhorias"
+      },
+      {
+        "id": 3,
+        "title": "Feedback dos alunos"
+      }
+    ]
+  }
+]
